@@ -22,7 +22,7 @@ ScriptsOnlyBuild:
     - UnityEngine.UI.GraphicRaycaster
     - UnityEngine.UI.Text
   sceneClasses:
-    Assets/_Completed-Game/Roll-a-ball.unity:
+    Assets/_Completed-Game/Roll-a-ball-1.unity:
     - Class: 1
       Script: {instanceID: 0}
     - Class: 4
@@ -52,6 +52,8 @@ ScriptsOnlyBuild:
     - Class: 89
       Script: {instanceID: 0}
     - Class: 92
+      Script: {instanceID: 0}
+    - Class: 102
       Script: {instanceID: 0}
     - Class: 104
       Script: {instanceID: 0}
@@ -610,5 +612,5 @@ ScriptsOnlyBuild:
     className: PlayableTrack
   platform: 19
   scenePathNames:
-  - Assets/_Completed-Game/Roll-a-ball.unity
-  playerPath: C:/Unity Class/Aung Myo Myint/Export/Roll A Ball.exe
+  - Assets/_Completed-Game/Roll-a-ball-1.unity
+  playerPath: C:/Unity Class/Aung Myo Myint/Export/RollABall.exe
